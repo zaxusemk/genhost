@@ -5,7 +5,7 @@
 #
 
 readonly wordlist='wordlist'
-readonly domain=${GENHOST_DOMAIN:-example.com}
+readonly domain=${GENHOST_DOMAIN:-local.crosswhen.net}
 
 # http://mywiki.wooledge.org/BashFAQ/026
 
